@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://10.168.149.123:13306/datasolution?useUnicode=true&serverTimezone=Asia/Seoul
+    username: datasolution
+    password: datasolution
